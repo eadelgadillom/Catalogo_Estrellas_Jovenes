@@ -1,4 +1,4 @@
-Construcción de un catálogo de estrellas jóvenes con disco en regiones de formación estelar de la vecindad solar
+CONSTRUCCIÓN DE UN CATALOGO DE ESTRELLAS JÓVENES CON DISCO EN REGIONES DE FORMACIÓN ESTELAR DE LA VECINDAD SOLAR
 
 TÉCNICAS OBSERVACIONALES
 
